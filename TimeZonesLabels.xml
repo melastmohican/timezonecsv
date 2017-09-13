@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<labels>
+	<Pacific.Samoa>Samoa Time</Pacific.Samoa>
+	<Pacific.Honolulu>Hawaii Time</Pacific.Honolulu>
+	<Pacific.Gambier>Gambier Time</Pacific.Gambier>
+	<America.Adak>Hawaii-Aleutian Time</America.Adak>
+	<Pacific.Pitcairn>Pitcairn Time</Pacific.Pitcairn>
+	<America.Anchorage>Alaska Time</America.Anchorage>
+	<America.Phoenix>Mountain Time (Arizona)</America.Phoenix>
+	<America.Tijuana>Pacific Time (Mexico)</America.Tijuana>
+	<America.Los_Angeles>Pacific Time (US and Canada)</America.Los_Angeles>
+	<Pacific.Galapagos>Galapagos Time</Pacific.Galapagos>
+	<America.Costa_Rica>Central Time (Central America)</America.Costa_Rica>
+	<America.Chihuahua>Mountain Time (Mexico)</America.Chihuahua>
+	<America.Denver>Mountain Time (US and Canada)</America.Denver>
+	<America.Panama>Eastern Time (Central America)</America.Panama>
+	<America.Jamaica>Eastern Time (Central America)</America.Jamaica>
+	<America.Lima>Pacific Time (South America)</America.Lima>
+	<America.Chicago>Central Time (US and Canada)</America.Chicago>
+	<America.Mexico_City>Central Time (Mexico)</America.Mexico_City>
+	<America.Manaus>Amazon Time</America.Manaus>
+	<America.Puerto_Rico>Atlantic Time (Central America)</America.Puerto_Rico>
+	<America.Barbados>Eastern Caribbean Time</America.Barbados>
+	<America.New_York>Eastern Time (US and Canada)</America.New_York>
+	<America.Sao_Paulo>Eastern Time (South America)</America.Sao_Paulo>
+	<Atlantic.Bermuda>Atlantic Time (Bermuda)</Atlantic.Bermuda>
+	<America.Thule>Greenland Time</America.Thule>
+	<America.Godthab>Western Greenland Time</America.Godthab>
+	<Atlantic.South_Georgia>South Georgia Time</Atlantic.South_Georgia>
+	<Atlantic.Cape_Verde>Cape Verde Time</Atlantic.Cape_Verde>
+	<Atlantic.Azores>Azores Time</Atlantic.Azores>
+	<UTC>Coordinated Universal Time</UTC>
+	<Africa.Dakar>Greenwich Mean Time (Dakar)</Africa.Dakar>
+	<Europe.London>Greenwich Mean Time (Europe)</Europe.London>
+	<Africa.Casablanca>Greenwich Mean Time (Casablanca)</Africa.Casablanca>
+	<Africa.Lagos>Western African Time</Africa.Lagos>
+	<Europe.Warsaw>Central European Time (Warsaw)</Europe.Warsaw>
+	<Europe.Amsterdam>Central European Time (Amsterdam)</Europe.Amsterdam>
+	<Africa.Cairo>Central Africa Time</Africa.Cairo>
+	<Africa.Nairobi>Eastern Africa Time</Africa.Nairobi>
+	<Asia.Kuwait>Arabia Time</Asia.Kuwait>
+	<Europe.Istanbul>Eastern European Time (Greece, Turkey, Bulgaria)</Europe.Istanbul>
+	<Asia.Tel_Aviv>Israel Time</Asia.Tel_Aviv>
+	<Europe.Helsinki>Eastern European Time (Finland, Lithuania, Estonia)</Europe.Helsinki>
+	<Indian.Mauritius>Mauritius Time</Indian.Mauritius>
+	<Europe.Moscow>Moscow Time</Europe.Moscow>
+	<Asia.Dubai>Gulf Time</Asia.Dubai>
+	<Asia.Baku>Azerbaijan Time</Asia.Baku>
+	<Indian.Maldives>Maldives Time</Indian.Maldives>
+	<Asia.Yekaterinburg>Yekaterinburg Time</Asia.Yekaterinburg>
+	<Indian.Chagos>Indian Ocean Territory Time</Indian.Chagos>
+	<Asia.Jakarta>West Indonesia Time</Asia.Jakarta>
+	<Asia.Bangkok>Indochina Time</Asia.Bangkok>
+	<Asia.Shanghai>China Time</Asia.Shanghai>
+	<Asia.Singapore>Singapore Time</Asia.Singapore>
+	<Australia.Perth>Western Time (Australia)</Australia.Perth>
+	<Asia.Seoul>Korea Time</Asia.Seoul>
+	<Asia.Tokyo>Japan Time</Asia.Tokyo>
+	<Australia.Canberra>Eastern Time (New South Wales)</Australia.Canberra>
+	<Asia.Yakutsk>Yakutsk Time</Asia.Yakutsk>
+	<Pacific.Chuuk>Chuuk Time</Pacific.Chuuk>
+	<Asia.Vladivostok>Vladivostok Time</Asia.Vladivostok>
+	<Pacific.Guadalcanal>Solomon Islands Time</Pacific.Guadalcanal>
+	<Pacific.Fiji>Fiji Time</Pacific.Fiji>
+	<Pacific.Auckland>New Zealand Time</Pacific.Auckland>
+	<Pacific.Apia>West Samoa Time</Pacific.Apia>
+	<Pacific.Kiritimati>Line Islands Time</Pacific.Kiritimati>
+</labels>
